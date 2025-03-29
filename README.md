@@ -55,10 +55,10 @@ I specialize in AI-driven solutions, integrating front-end development to create
 - Microsoft Office Essentials – IBM
 - Fundamentals of HTML, CSS - Coding Ninjas
 
-## 🌐 Connect with Me
-- **LinkedIn:** [Vignesh Hariraj](https://www.linkedin.com/in/vigneshhariraj)
-- **GitHub:** [Vigneshhariraj](https://www.github.com/Vigneshhariraj)
-- **Email:** [vigneshhariraj@gmail.com](mailto:vigneshhariraj@gmail.com)
-
+## 📫 Connect with Me
+🔗 **LinkedIn:** [linkedin.com/in/vigneshhariraj](http://www.linkedin.com/in/vigneshhariraj)  
+📸 **Instagram:** [instagram.com/_vignesh_exe_](https://www.instagram.com/_vignesh_exe_?igsh=MXhrd2NvbzhiaHV6cQ==)  
+💻 **Coding Ninjas Profile:** [codingninjas.com/studio/profile/vigneshhariraj](https://www.codingninjas.com/studio/profile/vigneshhariraj)  
+🐦 **Twitter (X):** [x.com/vigneshhariraj](https://x.com/vigneshhariraj?t=jZUJKeRzd3oAajMKLuWe3g&s=08)  
 Let's connect and innovate together! 🚀
 
